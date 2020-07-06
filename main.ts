@@ -1,3 +1,5 @@
+// From the course on YouTube: https://www.youtube.com/watch?v=WBPrJSw7yQA
+
 export {}
 
 let message = 'Hello Doston';
